@@ -1,0 +1,6 @@
+﻿  VachKeDuong.cpp
+D:\GameCar\MiniGameStarter\TrainingFramework\src\GameObject\VachKeDuong.cpp(15,41): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\GameCar\MiniGameStarter\TrainingFramework\src\GameObject\VachKeDuong.cpp(15,35): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\GameCar\MiniGameStarter\TrainingFramework\src\GameObject\VachKeDuong.cpp(57,41): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+D:\GameCar\MiniGameStarter\TrainingFramework\src\GameObject\VachKeDuong.cpp(57,35): warning C4244: 'argument': conversion from 'GLfloat' to 'GLint', possible loss of data
+  TrainingFramework.vcxproj -> D:\GameCar\MiniGameStarter\BIN-Nvidia\TrainingFramework.exe
